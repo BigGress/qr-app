@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-24.2.1_d7545abfdfeaa5c0dbc8d0ac40781a3181dd7847.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-24.2.1_48935bfe1c7c87ce34768405d4554a8aee3e73fa.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.2.1_23e5544b91879baa6db3fe040dcc8f3cdb8b14a2.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.2.1_837c0ef4c5479c979b38471fd448efe4aec5ea66.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-24.2.1_0fce575121ac4646711ba94ccf72f1de92cd3a96.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-24.2.1_ee1e8b5bb36e9761c8696f51c573e17c854a61ab.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_45e7f84921d3742fd67577a4485313f71606bba3.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.2.1_d1ab9ed6e5260166ee243f1459745d0b4527b586.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/qcApp/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_d701cc2d2c54713b1ec38ceaf629684684a43766.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-24.2.1_d60eb93209b91adf29d11a024e3792ac50ac4e21.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/barcodescanner-release-2.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0ffc69ad7114bd5734959f40e6173346fa2bdf3e">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-barcodescanner-release-2.1.3_b9bdab0683f043c6b2805605f994ed8bba7479d4.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/qcApp/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/qcApp-runtime-unspecified_9083c8ef6f511627137aec6a01fcb9631256e74a.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-24.2.1_eb78093197ecea5f988833ed719da7bacbacfb7f.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-24.2.1_afad236298465d0ce71327d564c3d3280a6b04c0.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-24.2.1_2a1868c8283235c1cb28c3f3eff9b727a86c8549.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-24.2.1_7a97ba1af11d38163bd110c19480a303b4ff282a.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-24.2.1_bd250c8039b884abc7d30f01ab7d91fe5e8d28ce.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-24.2.1_dc43ba7d8c03c316b9711c51994d6bb4afa83dbc.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.2.1_900f849d4410a4f249249597ff772d7fdc06c87a.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-24.2.1_67e1063adde635f4c842fb7351b8076d121bef9a.jar" />
+    </item>
+    <item
+        jar="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/internal_impl-24.2.1_f104a6135553db1dd6ab9db2c02ca4c2bc907113.jar" />
+    </item>
+
+</items>

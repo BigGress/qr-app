@@ -1,0 +1,7 @@
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/app.routing.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/app.module.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/main.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/scan/scan.routing.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/scan/scan.module.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/scan/scan.component.js
+/Users/gress/Desktop/code/test/qcApp/qcApp/platforms/android/src/main/assets/app/item/item-detail.component.js
